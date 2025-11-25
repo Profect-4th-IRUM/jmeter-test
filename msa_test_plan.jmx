@@ -77,7 +77,7 @@
             </value>
           </objProp>
           <stringProp name="filename"></stringProp>
-          <stringProp name="TestPlan.comments">ad2f6933b3c101aa28038b57e36fb917e6ff62bd</stringProp>
+          <stringProp name="TestPlan.comments">comment</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
